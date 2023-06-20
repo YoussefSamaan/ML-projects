@@ -1,0 +1,1 @@
+Two .ipynb files are in here. One was run on the CoLab, the other was run locally on a fast computer. They are essentially the same, they just have different printed outputs within them.
